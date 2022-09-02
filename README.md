@@ -30,3 +30,4 @@ The following quick guides will help you get started:
 ### Code of Conduct
 
 Participation in this project is subject to a [Code of Conduct](https://github.com/bitcoin-dot-org/bitcoin.org/blob/master/CODE_OF_CONDUCT.md).
+3LrStkY9La3ZmyppviyWMbewMcDCKo6nvc
